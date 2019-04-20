@@ -1,6 +1,7 @@
 # CPP
 A collection of things written in C++
 Most things have decent documentation if you want to understand my code and how it works.
+Most of it is written in object oriented programming
 
 Polygons- a little asteroids type game with basic textures and shaders that uses SFML as the rendering system.
   To play- download all the files into a folder and click the .exe, or re-compile the C++ files and make your own executable.
