@@ -4,7 +4,7 @@ Most things have decent documentation if you want to understand my code and how 
 
 Polygons- a little asteroids type game with basic textures and shaders that uses SFML as the rendering system.
   To play- download all the files into a folder and click the .exe, or re-compile the C++ files and make your own executable.
-  You may need to set up SFML to recompile.
+  You may need to set up SFML to recompile. Arrow keys to move, spacebar to shoot, r to respawn.
   
 LinkedList- a pointer based ordered linked list data structure implementation, along with a formated data "API" type thing that
   reads from a text file and does the basic CRUD type operations. There's not much error checking, if I were actually going to implement
