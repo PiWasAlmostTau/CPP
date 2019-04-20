@@ -1,0 +1,12 @@
+a Bill
+a Adam
+a Zorro
+a Bill
+P
+f Bill
+f Zack
+r Bill
+r Adam
+P
+R
+P
