@@ -15,4 +15,6 @@ KnightsTour- a recursive, brute-force knight's tour solver (if you're not famili
   see here https://en.wikipedia.org/wiki/Knight%27s_tour). It prints out the solution to every complete tour it finds,
   and also checks for semi-magical boards (boards where the move numbers in the rows and columns add to the same values)
   
+ImgGen- a program that draws a colored mandelbrot set, along with shapes with optional gradients, and outputs an image file in .ppm format.
+  
 RecursionPractice- a quick assortment of simple recursive functions 
